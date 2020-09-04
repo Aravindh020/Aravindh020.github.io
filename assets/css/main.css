@@ -142,12 +142,6 @@ footer {
   .stack-card:hover {
     cursor: text; }
 
-.call-icon {
-  width: 60px;
-  height: 60px; }
-  .call-icon img {
-    width: 100%;
-    display: inline-block; }
 
 .primary-btn, .secondary-btn {
   font-size: 14px;
@@ -197,14 +191,6 @@ footer {
     margin-top: -130px;
     border-left: initial; }
 
-.hlp-line {
-  width: 80%;
-  position: absolute;
-  height: 2px;
-  border-radius: 2px;
-  background: rgba(222, 222, 222, 0.49);
-  top: 20px;
-  z-index: -1; }
 
 .primary-highlight__txt {
   position: relative;
@@ -485,4 +471,3 @@ footer {
   p {
     text-align: justify; } }
 
-/*# sourceMappingURL=main.css.map */
