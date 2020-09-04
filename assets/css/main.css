@@ -142,6 +142,15 @@ footer {
   .stack-card:hover {
     cursor: text; }
 
+.hlp-line {	
+  width: 80%;	
+  position: absolute;	
+  height: 2px;	
+  border-radius: 2px;	
+  background: rgba(222, 222, 222, 0.49);	
+  top: 20px;	
+  z-index: -1; }
+
 
 .primary-btn, .secondary-btn {
   font-size: 14px;
