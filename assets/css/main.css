@@ -109,6 +109,19 @@ footer {
   padding: 50px 20px;
   background-image: linear-gradient(to right, #4458dc 0%, #854fee 100%), radial-gradient(circle at top left, #4458dc, #854fee); }
 
+ .bttn {
+    background-color:#6c63ff;
+    border-radius: 23px;
+    color: white;
+    padding: 15px 25px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 18px;
+    margin: 4px 2px;
+    cursor: pointer;
+  }
+
 .frame-wrapper {
   max-width: 1048px;
   padding: 0px 20px;
