@@ -500,3 +500,7 @@ footer {
     background-color: #edb9f8;
     
   }
+#myBtn {
+    display: none; 
+    position: fixed;
+}
