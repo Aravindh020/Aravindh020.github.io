@@ -496,3 +496,7 @@ footer {
   p {
     text-align: justify; } }
 
+ #myBtn:hover {
+    background-color: #edb9f8;
+    
+  }
