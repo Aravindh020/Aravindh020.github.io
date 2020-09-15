@@ -503,10 +503,12 @@ footer {
 #myBtn {
     display: none; 
     position: fixed;
-   bottom: 20px; 
+    bottom: 20px; 
     right: 30px;
-  z-index: 99; 
+    z-index: 99; 
     border: 10px;
-   outline: whitesmoke; 
+    outline: whitesmoke; 
     background-color: #854fee; 
+    color: white; 
+    cursor: pointer;
 }
