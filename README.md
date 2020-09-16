@@ -1,4 +1,4 @@
-<div align= "center"> <h1>Just an usual portfolio website :) </h1></div> <br> 
+ Just an usual portfolio website :)<br> 
 <br>
 <br>
   [![forthebadge](https://forthebadge.com/images/badges/uses-html.svg)](https://forthebadge.com) &nbsp;
