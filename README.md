@@ -1,4 +1,5 @@
  Just an usual portfolio website :)
+ <hr>
 <br> 
 <br>
 <br>
@@ -7,3 +8,4 @@
         [![forthebadge](https://forthebadge.com/images/badges/uses-js.svg)](https://forthebadge.com)
           
 Visit ->  https://aravindh020.github.io/
+
