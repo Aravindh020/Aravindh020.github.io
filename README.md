@@ -1,5 +1,4 @@
  Just an usual portfolio website :)
- <hr>
 <br> 
 <br>
 <br>
