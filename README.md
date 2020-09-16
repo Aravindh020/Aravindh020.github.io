@@ -1,4 +1,4 @@
-<h1 align="center"> Just an usual portfolio website :) </h1>
+ Just an usual portfolio website :)
 <br> 
 <br>
 <br>
