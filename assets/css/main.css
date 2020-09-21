@@ -307,7 +307,9 @@ footer {
     color: #fff; }
 
 .developed-by {
-  text-align: center; }
+  text-align: center;
+color: #FFF;
+}
 
 .column-grid, .two-column-grid__fluid, .two-column-grid__fixed, .two-column-grid__fixed--reverse {
   width: 100%;
