@@ -309,6 +309,7 @@ footer {
 .developed-by {
   text-align: center;
 color: #FFF;
+  text-decoration: none;
 }
 
 .column-grid, .two-column-grid__fluid, .two-column-grid__fixed, .two-column-grid__fixed--reverse {
