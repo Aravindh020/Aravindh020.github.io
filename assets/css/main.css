@@ -521,7 +521,7 @@ color: #FFF;
     border: 2px solid #ffffff;
     cursor: pointer;
 }
-.typewriter h1 {
+.typewriter {
     color: rgb(12, 12, 12);
     font-family: "Source Sans Pro", sans-serif;
     overflow: hidden; 
