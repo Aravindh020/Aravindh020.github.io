@@ -526,8 +526,7 @@ color: #FFF;
     font-family: "Source Sans Pro", sans-serif;
     overflow: hidden; 
     border-right: .15em solid #854fee; 
-    white-space: nowrap; 
-    align-items: center;
+    white-space: nowrap;
     margin: 0 auto; 
     letter-spacing: .01em; 
     animation: 
