@@ -310,6 +310,7 @@ footer {
   text-align: center;
 color: #FFF;
   text-decoration: none;
+  cursor: grab;
 }
 
 .column-grid, .two-column-grid__fluid, .two-column-grid__fixed, .two-column-grid__fixed--reverse {
@@ -515,7 +516,7 @@ color: #FFF;
     color: white; 
     cursor: pointer;
     padding: 15px; 
-    border-radius: 80px;
+    border-radius: 15px;
     font-size: 18px; 
     transition-duration: 0.5s;
     border: 2px solid #ffffff;
