@@ -107,7 +107,7 @@ p {
 
 footer {
   padding: 50px 20px;
-  background-image: linear-gradient(to right, #4458dc 0%, #854fee 100%), radial-gradient(circle at top left, #4458dc, #854fee); }
+  background-color: #758283; }
 
 .frame-wrapper {
   max-width: 1048px;
@@ -156,16 +156,16 @@ footer {
 }
 
 ::-webkit-scrollbar-track {
-  background: #edb9f8;
+  background: #CAD5E2;
 }
 
 ::-webkit-scrollbar-thumb {
-  background: #854fee;
+  background: #758283;
   border-radius : 20px;
 }
 
 ::-webkit-scrollbar-thumb:hover {
-  background: #854fee;
+  background: #758283;
 }
 
 .primary-btn, .secondary-btn {
@@ -179,20 +179,20 @@ footer {
     cursor: pointer; }
 
 .primary-btn {
-  background-color: #6c63ff;
+  background-color: #758283;
   color: #FFF;
   box-shadow: 0 10px 30px rgba(118, 85, 225, 0.3); }
 
 .secondary-btn {
   background-color: #FFF;
-  color: #6c63ff;
-  border: 1px solid #6c63ff; }
+  color: #758283;
+  border: 1px solid #758283; }
 
 .app-fixed__line {
   width: 100%;
   height: 3px;
   position: fixed;
-  background-color: #6c63ff;
+  background-color: #758283;
   z-index: 1000; }
 
 .line-helper {
@@ -220,7 +220,7 @@ footer {
 .primary-highlight__txt {
   position: relative;
   font-size: 125px;
-  color: #a09de0; }
+  color: #758283; }
   .primary-highlight__txt .extra {
     position: absolute;
     font-size: 40px;
@@ -238,7 +238,7 @@ footer {
   border: 2px dashed #ddd; }
 
  .bttn {
-    background-color:#6c63ff;
+    background-color:#758283;
     border-radius: 23px;
     color: white;
     padding: 15px 25px;
@@ -255,7 +255,7 @@ footer {
 
 .call-txt {
   font-size: 30px;
-  color: #6c63ff; }
+  color: #758283; }
 
 .call-txt__header {
   font-size: 24px;
@@ -286,13 +286,21 @@ footer {
   flex-direction: column;
   align-items: center;
   justify-content: center;
-  color: rgb(252, 252, 252); }
+  color:#758283; }
+
+
+footer#\#footer{
+  padding-top: 5px;
+  height: 125px;
+  color: #758283;
+}
 
 .footer-header {
   font-size: 26px;
   text-transform: uppercase;
   font-weight: 600;
   color: #fff;
+  padding-top: 5px;
   margin-bottom: 25px; }
 
 .footer-following {
@@ -369,8 +377,7 @@ color: #FFF;
   align-items: center; }
 
 .ptb-100 {
-  padding-top: 100px;
-  padding-bottom: 100px; }
+  padding-top: 100px; }
 
 .mtb-100 {
   margin-top: 100px;
@@ -386,10 +393,11 @@ color: #FFF;
   margin-bottom: 15px; }
 
 .mb-20 {
-  margin-bottom: 20px; }
+  margin-bottom: 15px; }
 
 .mb-25 {
-  margin-bottom: 25px; }
+  margin-bottom: 25px; 
+padding-top: 20px;}
 
 .mb-30 {
   margin-bottom: 30px; }
@@ -501,7 +509,7 @@ color: #FFF;
     text-align: justify; } }
 
  #myBtn:hover {
-    background-color: #edb9f8;
+    background-color: #758283;
     
   }
 #myBtn {
@@ -512,7 +520,7 @@ color: #FFF;
     z-index: 99; 
     border: 10px;
     outline: whitesmoke; 
-    background-color: #854fee; 
+    background-color: #758283; 
     color: white; 
     cursor: pointer;
     padding: 15px; 
@@ -526,7 +534,7 @@ color: #FFF;
     color: rgb(12, 12, 12);
     font-family: "Source Sans Pro", sans-serif;
     overflow: hidden; 
-    border-right: .25em solid #854fee; 
+    border-right: .25em solid #758283; 
     white-space: nowrap;
     margin: 0 auto; 
     letter-spacing: .01em; 
@@ -541,5 +549,5 @@ color: #FFF;
   
   @keyframes blink-caret {
     from, to { border-color: transparent }
-    50% { border-color:#854fee }
+    50% { border-color:#758283 }
   }
